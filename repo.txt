@@ -1,2 +1,4 @@
 see code here:
 https://github.com/BR4GR/gbsv-challenges/blob/master/challenge1.ipynb
+
+link was already at the top of the ipynb and htmlfile
