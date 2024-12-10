@@ -125,7 +125,7 @@ celerybeat.pid
 .env
 .venv
 gbsvchallenges
-jupitrlab_env
+jupyterlab_env
 env/
 venv/
 ENV/
